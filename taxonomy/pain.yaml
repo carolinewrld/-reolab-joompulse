@@ -1,0 +1,57 @@
+# Боль / триггер, к которому обращается креатив.
+# Код — snake_case, стабильный; label_ru — человекочитаемый.
+- code: high_price
+  label_ru: Дорого
+  label_en: High price
+  description: Клиент считает альтернативы слишком дорогими.
+- code: slow_delivery
+  label_ru: Долгая доставка
+  label_en: Slow delivery
+- code: bad_quality
+  label_ru: Низкое качество
+  label_en: Bad quality
+- code: fake_products
+  label_ru: Подделки
+  label_en: Fake products
+- code: size_fit
+  label_ru: Не подходит размер
+  label_en: Sizing / fit issues
+- code: limited_choice
+  label_ru: Мало выбора
+  label_en: Limited choice
+- code: return_difficulty
+  label_ru: Сложно вернуть
+  label_en: Hard returns
+- code: payment_friction
+  label_ru: Неудобная оплата
+  label_en: Payment friction
+- code: trust_concern
+  label_ru: Недоверие к магазину
+  label_en: Trust concerns
+- code: fomo_discount
+  label_ru: Страх упустить скидку
+  label_en: Fear of missing a deal
+- code: lack_of_time
+  label_ru: Нет времени на шопинг
+  label_en: Lack of time
+- code: decision_fatigue
+  label_ru: Перегруз выбором
+  label_en: Decision fatigue
+- code: social_status
+  label_ru: Желание статуса
+  label_en: Social status
+- code: gift_stress
+  label_ru: Подарок в последний момент
+  label_en: Last-minute gift
+- code: home_improvement
+  label_ru: Обустройство дома
+  label_en: Home improvement
+- code: self_care
+  label_ru: Забота о себе
+  label_en: Self-care
+- code: kids_needs
+  label_ru: Нужды детей
+  label_en: Kids needs
+- code: work_from_home
+  label_ru: Работа из дома
+  label_en: WFH setup

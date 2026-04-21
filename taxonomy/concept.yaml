@@ -1,0 +1,55 @@
+# Формат / концепция креатива.
+- code: ugc_testimonial
+  label_ru: UGC-отзыв
+  label_en: UGC testimonial
+- code: influencer_review
+  label_ru: Обзор инфлюенсера
+  label_en: Influencer review
+- code: before_after
+  label_ru: До / После
+  label_en: Before / After
+- code: problem_solution
+  label_ru: Проблема → решение
+  label_en: Problem → Solution
+- code: product_demo
+  label_ru: Демо продукта
+  label_en: Product demo
+- code: unboxing
+  label_ru: Анбоксинг
+  label_en: Unboxing
+- code: listicle
+  label_ru: Подборка (топ-N)
+  label_en: Listicle
+- code: comparison
+  label_ru: Сравнение
+  label_en: Comparison
+- code: discount_offer
+  label_ru: Скидочный оффер
+  label_en: Discount offer
+- code: limited_time
+  label_ru: Ограниченное предложение
+  label_en: Limited-time offer
+- code: seasonal
+  label_ru: Сезонный повод
+  label_en: Seasonal theme
+- code: meme_humor
+  label_ru: Мем / юмор
+  label_en: Meme / humor
+- code: storytelling
+  label_ru: История клиента
+  label_en: Customer story
+- code: stat_factoid
+  label_ru: Статистика / факт
+  label_en: Stat / factoid
+- code: tutorial_howto
+  label_ru: Как пользоваться
+  label_en: Tutorial / how-to
+- code: lifestyle_moodboard
+  label_ru: Lifestyle / муд
+  label_en: Lifestyle moodboard
+- code: celebrity_endorsement
+  label_ru: Знаменитость
+  label_en: Celebrity endorsement
+- code: social_proof_numbers
+  label_ru: Цифры и счётчики
+  label_en: Numeric social proof

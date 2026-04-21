@@ -1,0 +1,49 @@
+# Призыв к действию (в тексте и/или оверлее).
+- code: shop_now
+  label_ru: Купить сейчас
+  label_en: Shop now
+- code: buy_now
+  label_ru: Купить
+  label_en: Buy now
+- code: learn_more
+  label_ru: Подробнее
+  label_en: Learn more
+- code: get_offer
+  label_ru: Получить оффер
+  label_en: Get offer
+- code: install_app
+  label_ru: Установить приложение
+  label_en: Install app
+- code: sign_up
+  label_ru: Зарегистрироваться
+  label_en: Sign up
+- code: subscribe
+  label_ru: Подписаться
+  label_en: Subscribe
+- code: swipe_up
+  label_ru: Свайп вверх
+  label_en: Swipe up
+- code: try_free
+  label_ru: Попробовать бесплатно
+  label_en: Try free
+- code: limited_offer
+  label_ru: Успей взять
+  label_en: Limited offer
+- code: use_promo_code
+  label_ru: Использовать промокод
+  label_en: Use promo code
+- code: see_collection
+  label_ru: Смотреть коллекцию
+  label_en: See collection
+- code: book_now
+  label_ru: Забронировать
+  label_en: Book now
+- code: contact_us
+  label_ru: Связаться с нами
+  label_en: Contact us
+- code: add_to_cart
+  label_ru: В корзину
+  label_en: Add to cart
+- code: no_explicit_cta
+  label_ru: Без явного CTA
+  label_en: No explicit CTA

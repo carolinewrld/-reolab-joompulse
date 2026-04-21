@@ -1,0 +1,52 @@
+# Главный визуальный объект в кадре.
+- code: product_shot_plain
+  label_ru: Продукт на нейтральном фоне
+  label_en: Plain product shot
+- code: product_shot_context
+  label_ru: Продукт в контексте использования
+  label_en: Product in context
+- code: person_using_product
+  label_ru: Человек использует продукт
+  label_en: Person using product
+- code: person_face_closeup
+  label_ru: Крупный план лица
+  label_en: Face close-up
+- code: group_of_people
+  label_ru: Группа людей
+  label_en: Group of people
+- code: child
+  label_ru: Ребёнок
+  label_en: Child
+- code: pet
+  label_ru: Домашний питомец
+  label_en: Pet
+- code: home_interior
+  label_ru: Интерьер
+  label_en: Home interior
+- code: outdoor_scene
+  label_ru: Сцена на улице
+  label_en: Outdoor scene
+- code: kitchen_food
+  label_ru: Кухня / еда
+  label_en: Kitchen / food
+- code: phone_screen_ui
+  label_ru: Экран телефона / UI
+  label_en: Phone screen / UI
+- code: before_after_split
+  label_ru: Сплит до/после
+  label_en: Before/after split
+- code: packaging_closeup
+  label_ru: Упаковка крупно
+  label_en: Packaging close-up
+- code: infographic
+  label_ru: Инфографика
+  label_en: Infographic
+- code: text_overlay_dominant
+  label_ru: Доминирующий текст
+  label_en: Dominant text overlay
+- code: collage_multi_product
+  label_ru: Коллаж из товаров
+  label_en: Multi-product collage
+- code: price_tag
+  label_ru: Ценник
+  label_en: Price tag

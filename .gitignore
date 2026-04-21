@@ -1,0 +1,32 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# tooling
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# build
+dist/
+build/
+*.whl
+
+# uv
+uv.lock.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# local minio / postgres data
+data/
